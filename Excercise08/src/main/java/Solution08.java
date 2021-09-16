@@ -7,6 +7,11 @@ import java.util.Scanner;
 
 public class Solution08 {
     public static void main(String[] args) {
+        new Solution08().pizza();
+
+    }
+
+    public void pizza() {
         Scanner input = new Scanner(System.in);
         System.out.print("How many people?");
         int people = input.nextInt(); //take in input for amount of people
@@ -20,6 +25,5 @@ public class Solution08 {
         int remainder = slices % people; //
         System.out.println("Each person gets " +distribute+ " pieces of pizza.");
         System.out.println("There are " +remainder+ " leftover pieces.");
-
     }
 }
