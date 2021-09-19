@@ -1,0 +1,8 @@
+
+9
+java:S1659"#Declare "Width" on a separate line.(Ù‚ƒØ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(£ñàþ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Î®¨ç
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù‚ƒØ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù‚ƒØ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®±–âÿÿÿÿÿ
