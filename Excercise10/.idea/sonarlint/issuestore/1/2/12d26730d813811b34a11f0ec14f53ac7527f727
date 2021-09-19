@@ -1,0 +1,15 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ã«¤Î
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(ëèñ‚
+c	java:S100."NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Ä”ò
+c	java:S1002"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ Ô—
+S	java:S1063"9Replace this use of System.out or System.err by a logger.(Œ¦ÓØøÿÿÿÿ
+N	java:S1064"9Replace this use of System.out or System.err by a logger.(•ÐÝû
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(ýƒ÷¾
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Äüµ±ýÿÿÿÿ
+f	java:S117."QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Ä”ò
+f	java:S1172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ Ô—
+f	java:S1172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ Ô—
+f	java:S1172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ Ô—
+v
+java:S1488*"`Immediately return this expression instead of assigning it to the temporary variable "finalTax".(ú…¡Ý
