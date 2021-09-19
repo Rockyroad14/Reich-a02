@@ -18,9 +18,9 @@ public class Solution09 {
         Length = input.nextInt();
         Width = input.nextInt();
         float Area = Length * Width;
-        float paintBucket = Area / paint;
-        int totalBuckets = Math.ceil(paintBucket);
-        System.out.println(Math.ceil(paintBucket));
+        float paintBucket = Area / paint; //find how many buckets needed using float
+        double totalBuckets = Math.ceil(paintBucket); //Round up to nearest whole number by calling Math.ceil function
+        System.out.println("You will need to purchase " +(int)totalBuckets+ " gallons of paint to cover " +(int)Area);
 
 
 
