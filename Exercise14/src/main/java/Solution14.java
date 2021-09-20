@@ -7,7 +7,7 @@ public class Solution14 {
      *  Copyright 2021 Jared Reich
      */
     Scanner input = new Scanner(System.in);
-    static double order;
+    static double order; //declare necessary variables and string
     static String state;
     static double orderTotal;
     static double tax;
@@ -19,7 +19,7 @@ public class Solution14 {
     }
 
     public void input() {
-        System.out.print("What is the order amount? ");
+        System.out.print("What is the order amount? "); // takes in input
         order = input.nextDouble();
         System.out.print("What is the state? ");
         state = input.next();
@@ -27,16 +27,15 @@ public class Solution14 {
     public double calculateOrder(double order, String state) {
         final double stateTax = 0.055;
         if(Objects.equals(state, "WI")) {
-            tax = stateTax * order;
-            order = tax + order;
+            tax = stateTax * order; // calculate tax if in WI
+            order = tax + order; // add tax to find total order
         }
+        order = Math.ceil(order * 100.0) / 100.0; // round up to nearest cent
 
         return order;
     }
     public void displayOutput(double orderTotal) {
-        System.out.printf("The subtotal is $%.2f%n", order);
-        System.out.printf("The tax is $%.2f%n", tax);
-        System.out.printf("The total is $%.2f", orderTotal);
+        System.out.printf("The subtotal is $%.2f%nThe tax is $%.2f%nThe total is $%.2f", order, tax, orderTotal);
 
     }
 
