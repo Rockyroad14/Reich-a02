@@ -1,0 +1,14 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(˜š¤¨
+L
+java:S2696"6Make the enclosing method "static" or remove this set.(æáŞï
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¿àÛ‘şÿÿÿÿ
+Q
+java:S2696"6Make the enclosing method "static" or remove this set.(Æµó†şÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(•‡ôĞÿÿÿÿÿ
+Q
+java:S2696"6Make the enclosing method "static" or remove this set.(Æ§ëùÿÿÿÿ
+N	java:S106""9Replace this use of System.out or System.err by a logger.(ƒ¾úĞ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²˜»›
+e	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙÏºc
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì‰ª¹ùÿÿÿÿ

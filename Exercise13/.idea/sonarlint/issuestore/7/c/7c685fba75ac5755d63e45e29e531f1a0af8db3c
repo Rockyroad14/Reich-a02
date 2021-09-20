@@ -1,0 +1,20 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(˜š¤¨
+L
+java:S2696"6Make the enclosing method "static" or remove this set.(æáŞï
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¿àÛ‘şÿÿÿÿ
+Q
+java:S2696"6Make the enclosing method "static" or remove this set.(Æµó†şÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(•‡ôĞÿÿÿÿÿ
+L
+java:S2696"6Make the enclosing method "static" or remove this set.(¥¾¦–
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ßÆ•Ğùÿÿÿÿ
+L
+java:S2696"6Make the enclosing method "static" or remove this set.(“…ñ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(¹§Şàÿÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Üı¥ıÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( £§
+e	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª¼»c
+f	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ¶
+f	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡ªâ
+f	java:S117)"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü›î
